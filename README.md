@@ -24,6 +24,6 @@ This project highlights the brand’s mission, vision, and activities through a 
 ---
 📸 Preview
 
-🔗 Live Demo: [BrandPro Landing Page](https://brandpro.vercel.app/)
-## 📂 Project Structure
+🔗 Live Demo: https://brand-pro-landingpage.vercel.app/
+
 
